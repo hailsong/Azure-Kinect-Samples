@@ -1,3 +1,22 @@
+
+
+# Unity Kinect Body Tracking X SMPL Model
+
+SMPL Unity sample에서 가져온 SMPL model에 Kinect Body Tracking으로부터의 애니메이션 실시간으로 가져옴
+
+아래 Unity Body Tracking Application 설치 잘 보고 따라가야함.
+
+
+
+## 참고자료
+- [How to Use SMPL Model in Unity (Official mpg documentation)](https://files.is.tue.mpg.de/nmahmood/smpl_website/How-to_SMPLinUnity.pdf)
+
+- [SMPL Project Page](https://smpl.is.tue.mpg.de/)
+
+- [Microsoft Azure Kinect Samples github](https://github.com/microsoft/Azure-Kinect-Samples)
+
+---------------
+
 # Sample Unity Body Tracking Application
 
 ### Directions for getting started:
